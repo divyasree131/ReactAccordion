@@ -1,0 +1,13 @@
+.accordion-container {
+  align-items: center;
+}
+.accordion-item {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+.accordion-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
